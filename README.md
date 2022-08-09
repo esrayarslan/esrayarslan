@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title"> Hello there! I'm  Esra Arslant</h1>
+<h1 align="left" id="macropower-title"> Hello there! I'm  Esra Arslan</h1>
 
 <!--
 **esrayarslan/esrayarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src=https://www.linkedin.com/in/esrayildizarslan/ />][linkedin]
-[<img align="left" height="24" width="24" src=https://www.instagram.com/yazesli/ />][instagram]
 
