@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently learning JavaScript and Java
 - 💬 Ask me about JavaScript/Java/Python
-- 📫 How to reach me : https://www.linkedin.com/in/esrayildizarslan/
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
