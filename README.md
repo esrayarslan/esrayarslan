@@ -1,7 +1,6 @@
 <h1 align="left" id="macropower-title"> Hi! I'm  Esra Arslan</h1>
 
-<!--
-**esrayarslan/esrayarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -11,6 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me ![Gmail]esrayildizarslan@gmail.com or ![Linkedin]https://www.linkedin.com/in/esrayildizarslan/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
