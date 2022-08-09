@@ -15,3 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+> Tools, languages, and other things that I like to work with.
+> <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    
