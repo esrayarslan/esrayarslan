@@ -1,5 +1,4 @@
-<h1 align="left" id="macropower-title"> Hello there! I'm  Barış Karapelit</h1>
-<h3 align="left">I am a Versatilist, doing Software Engineering things</h
+<h1 align="left" id="macropower-title"> Hello there! I'm  Esra Arslant</h1>
 
 <!--
 **esrayarslan/esrayarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
