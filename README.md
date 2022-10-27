@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on something cool 
-- 🌱 I’m currently learning JavaScript and Java
+- 🌱 I’m currently learning Java and JavaScript  
 - 💬 Ask me about JavaScript/Java/Python
 
 🔗 &nbsp;**Connect with me**
