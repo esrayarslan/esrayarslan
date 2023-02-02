@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently learning Java and JavaScript  
-- 💬 Ask me about Java/JavaScript/Python
+- 💬 Ask me about Java/JavaScript
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
