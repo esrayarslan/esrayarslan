@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on something cool 
-- 🌱 I’m currently learning Java and JavaScript  
-- 💬 Ask me about Java/JavaScript
+- 🌱 I’m currently learning Java 
+  
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
